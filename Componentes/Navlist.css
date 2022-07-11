@@ -1,0 +1,89 @@
+.Logo  {
+    width: 110px;
+    height: 60px;
+    margin-left: 20px;
+}
+.Container{
+    width: 100%;
+    margin: 0 auto;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    height: 70px;
+    font-size: 15px;
+  
+  
+}
+.Container ul {
+    display: flex;
+    margin-top: 5px;
+}
+li{
+    list-style: none;
+    margin: 15px;
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(157, 169, 173);
+}
+.tryfrofree{
+ background-color: #29abec;
+ margin-left: 20px;
+ height: 40px;
+ width: 100px;
+ border-radius: 5px;
+ color: rgb(196, 201, 204);
+
+ 
+}
+.tryfrofree:hover{
+    cursor: pointer;
+    background-color: #419ecc;
+}
+.navlist2{
+    justify-content: end;
+    align-items: center;
+}
+.navlist2 ul {
+    margin-top: 2px;
+    text-align: center;
+}
+.signup{
+    background-color: #29abec;
+ margin-left: 20px;
+ border-radius: 5px;
+ color: rgb(196, 201, 204);
+ height: 30px;
+ width: 75px;
+}
+.signup:hover{
+    cursor: pointer;
+    background-color: #419ecc;
+}
+.searchbar{
+    
+    background-color:white;
+    height: 35px;
+    border-radius: 5px;
+   border: none;
+
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    
+}
+.icon:hover{
+    cursor: pointer;
+    background-color: #419ecc;
+}
+.dropDown{
+    background-color: #243645;
+    text-align: center;
+    color: white;
+}
+
+
+

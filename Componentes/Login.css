@@ -1,0 +1,77 @@
+.loginContainer{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+
+}
+.formContainer{
+    width: 27%;
+    height: 70%;
+    background-color: white;
+    margin: 0 auto;
+    border: solid rgb(225, 214, 214) 2px;
+    text-align: center;
+    justify-content: center;
+}
+.formContainer  span{
+ color: blue;
+}
+.formContainer  h1{
+    text-align:start;
+    margin-left: 40px;
+    padding: 10px;   }
+   .Tital{
+margin-right: 8rem;
+   }
+   .Tital2{
+    margin-right: 14rem;
+       }
+       .Tital3{
+        margin-right: 11rem;    
+
+       }
+.signin{
+    width: 74%;
+    height: 35px;
+    border-radius: 7px;
+    border: solid rgb(225, 214, 214) 1px;
+    background-color: #fbc37e;
+    background-image: linear-gradient(0deg, #fbc37e 0%, #ebbe53 100%);
+    
+}
+.email{
+    width: 74%;
+    height: 25px;
+    border-radius: 6px;
+    border: solid rgb(225, 214, 214) 1px;
+}
+.Logosign{
+     
+        width: 203px;
+        height: 75px;
+        margin: 0 auto;
+ 
+}
+.Logosign img{
+    width: 10rem;
+    height: 3rem;
+    margin-top: 10px;
+    
+}
+.footer{
+    width: 100%;
+    height: 30%;
+    text-align: center;
+    background-color: white;
+    margin: 0 auto;
+    border: solid rgb(225, 214, 214) 2px;
+    box-shadow: 1px 0px 2px 0px rgb(122, 122, 235) ;
+}
+.footer p{
+    color: rgba(39, 39, 222, 0.912);
+    font-size: smaller;
+    line-height: 6;
+}
+.footer span{ 
+    font-size: smaller;
+}

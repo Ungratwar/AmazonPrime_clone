@@ -1,0 +1,9 @@
+.dropdown{
+    height: 15px;
+    width: 80px;
+    text-align: center;
+    background-color: #0f171e;
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
